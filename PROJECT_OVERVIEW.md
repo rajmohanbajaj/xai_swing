@@ -201,7 +201,7 @@ key signals: macd(-0.326); ret1(-0.277)"
 ### **Quick Start**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/xai-swing.git
+git clone https://github.com/rajmohanbajaj/xai-swing.git
 cd xai-swing
 
 # Install dependencies

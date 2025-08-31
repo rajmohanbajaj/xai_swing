@@ -44,7 +44,7 @@ Thank you for your interest in contributing to XAI-Swing! This project aims to c
 ### **Local Development**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/xai-swing.git
+git clone https://github.com/rajmohanbajaj/xai-swing.git
 cd xai-swing
 
 # Create virtual environment

@@ -3,7 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/xai-swing.svg?style=social&label=Star)](https://github.com/yourusername/xai-swing)
+[![GitHub stars](https://img.shields.io/github/stars/rajmohanbajaj/xai-swing.svg?style=social&label=Star)](https://github.com/rajmohanbajaj/xai-swing)
 
 > **Revolutionizing AI trading with complete transparency and compliance-ready explanations**
 
@@ -47,7 +47,7 @@
 
 ### **1. Clone & Setup**
 ```bash
-git clone https://github.com/yourusername/xai-swing.git
+git clone https://github.com/rajmohanbajaj/xai-swing.git
 cd xai-swing
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -210,13 +210,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Support & Community**
 
-- **GitHub Issues**: [Report bugs & request features](https://github.com/yourusername/xai-swing/issues)
-- **GitHub Discussions**: [Join the conversation](https://github.com/yourusername/xai-swing/discussions)
-- **Documentation**: [Read the docs](https://github.com/yourusername/xai-swing/docs)
+- **GitHub Issues**: [Report bugs & request features](https://github.com/rajmohanbajaj/xai-swing/issues)
+- **GitHub Discussions**: [Join the conversation](https://github.com/rajmohanbajaj/xai-swing/discussions)
+- **Documentation**: [Read the docs](https://github.com/rajmohanbajaj/xai-swing/docs)
 
 ## ⭐ **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/xai-swing&type=Date)](https://star-history.com/#yourusername/xai-swing&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rajmohanbajaj/xai-swing&type=Date)](https://star-history.com/#rajmohanbajaj/xai-swing&Date)
 
 ---
 
