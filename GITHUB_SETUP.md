@@ -40,7 +40,7 @@ cd /Users/rajmohanbajaj/Projects/XAI
 git init
 
 # Add remote origin
-git remote add origin https://github.com/rajmohanbajaj/xai-swing.git
+git remote add origin https://github.com/rajmohanbajaj/xai_swing.git
 ```
 
 ### **2.2 Configure Git (if not already done)**

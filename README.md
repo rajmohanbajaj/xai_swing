@@ -47,7 +47,7 @@
 
 ### **1. Clone & Setup**
 ```bash
-git clone https://github.com/rajmohanbajaj/xai-swing.git
+git clone https://github.com/rajmohanbajaj/xai_swing.git
 cd xai-swing
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -210,13 +210,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Support & Community**
 
-- **GitHub Issues**: [Report bugs & request features](https://github.com/rajmohanbajaj/xai-swing/issues)
-- **GitHub Discussions**: [Join the conversation](https://github.com/rajmohanbajaj/xai-swing/discussions)
-- **Documentation**: [Read the docs](https://github.com/rajmohanbajaj/xai-swing/docs)
+- **GitHub Issues**: [Report bugs & request features](https://github.com/rajmohanbajaj/xai_swing/issues)
+- **GitHub Discussions**: [Join the conversation](https://github.com/rajmohanbajaj/xai_swing/discussions)
+- **Documentation**: [Read the docs](https://github.com/rajmohanbajaj/xai_swing/docs)
 
 ## ⭐ **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=rajmohanbajaj/xai-swing&type=Date)](https://star-history.com/#rajmohanbajaj/xai-swing&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rajmohanbajaj/xai_swing&type=Date)](https://star-history.com/#rajmohanbajaj/xai_swing&Date)
 
 ---
 

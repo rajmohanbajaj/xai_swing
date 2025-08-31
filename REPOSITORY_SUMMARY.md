@@ -112,7 +112,7 @@ Your **XAI-Swing** project is now **100% ready** for GitHub publication with pro
    ```bash
    cd /Users/rajmohanbajaj/Projects/XAI
    git init
-   git remote add origin https://github.com/rajmohanbajaj/xai-swing.git
+   git remote add origin https://github.com/rajmohanbajaj/xai_swing.git
    ```
 
 3. **Update Username References**
