@@ -169,21 +169,4 @@ key signals: macd(-0.326); ret1(-0.277)"
 
 ---
 
-## **Total Presentation Time: 35 minutes + 10 minutes Q&A**
 
----
-
-## **Presentation Tips:**
-
-1. **Start with the problem** - regulatory compliance challenges
-2. **Show live demo** of the system running
-3. **Highlight the 628.8% returns** early for attention
-4. **Use the AI explanations** as concrete examples
-5. **Emphasize compliance** for institutional audience
-6. **End with clear call to action** for GitHub/community
-
-## **Demo Script:**
-1. Show training progress (1 min)
-2. Display backtesting results (1 min)
-3. Generate live explanations (2 min)
-4. Walk through code structure (2 min)
